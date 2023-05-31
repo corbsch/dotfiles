@@ -10,3 +10,10 @@
 [core]
 	# Use custom `.gitignore`
 	excludesfile = ~/.gitignore
+
+[user]
+	name = Corbin Schappel
+	email = corbinschappel@gmail.com
+
+[column]
+	ui = always
